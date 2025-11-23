@@ -26,11 +26,6 @@ Backend, Frontend ve Veri Bilimi ile ilgileniyorum. 🚀
 
 ---
 
-## 📊 GitHub İstatistiklerim
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernakalkan18&layout=compact&theme=radical)
-
----
 
 ## 📫 İletişim
  
