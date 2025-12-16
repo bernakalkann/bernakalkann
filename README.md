@@ -1,7 +1,7 @@
-# 👋 Merhaba, ben **Berna Kalkan**
+# Merhaba, ben **Berna Kalkan**
 
 Bilgisayar mühendisliği öğrencisi • 
-Backend, Frontend ve Veri Bilimi ile ilgileniyorum. 🚀
+Backend, Frontend ve Veri Bilimi ile ilgileniyorum. 
 
 ---
 
