@@ -29,7 +29,7 @@ Backend, Frontend ve Veri Bilimi ile ilgileniyorum.
 
 ## 📫 İletişim
  
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:brnklkn8@gmail.com)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:bernakalkanc@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=FFFFFF)](https://medium.com/@bernakalkann)
 
 ---
