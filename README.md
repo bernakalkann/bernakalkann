@@ -2,11 +2,12 @@
 
 <p align="left">
   <a href="https://github.com/bernakalkann">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=F75C7E&width=450&lines=Computer+Engineer;Cloud+Applications+%26+APIs;IoT+%26+Data+Engineering" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=F75C7E&width=450&lines=Computer+Engineer;Full-Stack+Web+Developer;Backend+Applications+%26+APIs" alt="Typing SVG" />
   </a>
 </p>
 
-Bulut tabanlı modern web uygulamaları (Cloud APIs), Nesnelerin İnterneti (IoT) gerçek zamanlı veri akışı sistemleri ve yapay zeka entegrasyonlu CLI araçları geliştiriyorum.
+Python (Django) ve Java (Spring Boot) ekosistemlerinde backend ağırlıklı modern web uygulamaları, ölçeklenebilir REST API'ler, veri tabanı modellemeleri ve containerized (Docker) dağıtım mimarileri geliştiriyorum.
+
 
 ---
 
