@@ -24,12 +24,15 @@ Bulut tabanlı modern web uygulamaları (Cloud APIs), Nesnelerin İnterneti (IoT
 ### 💻 Geliştirme & Diller
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
 </p>
 
 ### 🌐 Frontend
 <p align="left">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -44,8 +47,9 @@ Bulut tabanlı modern web uygulamaları (Cloud APIs), Nesnelerin İnterneti (IoT
 
 ---
 
-## 📌 Öne Çıkan 3 Projem
+## 📌 Öne Çıkan Projelerim
 
+- 📋 **[task-project](https://github.com/bernakalkann/task-project)** — Django REST Framework (Python), Vue 3 (Vuetify) ve PostgreSQL kullanılarak geliştirilmiş, rol tabanlı yetkilendirme ve Jira/Scrum tarzı Kanban görev panosu barındıran modern bir görev yönetim ve işbirliği uygulaması.
 - 🎵 **[spotify-taste-analyzer](https://github.com/bernakalkann/spotify-taste-analyzer)** — Spotify çalma listelerindeki şarkıları analiz edip Gemini AI kullanarak müzikal aura tespiti yapan ve akıllı şarkı önerileri sunan modern bir Python CLI uygulaması.
 - ☁️ **[cloud-journal](https://github.com/bernakalkann/cloud-journal)** — Bulut tabanlı, kullanıcıların günlüklerini güvenli bir şekilde şifreleyerek saklamasını ve farklı cihazlar arasında senkronize etmesini sağlayan modern bir günlük ve not alma uygulaması.
 - 📡 **[iot-streaming-project](https://github.com/bernakalkann/iot-streaming-project)** — Nesnelerin İnterneti (IoT) cihazlarından gelen büyük veri akışlarını (telemetri verileri) anlık olarak işleyen ve analiz eden gerçek zamanlı veri akış mimarisi.
