@@ -13,8 +13,8 @@ Bulut tabanlı modern web uygulamaları (Cloud APIs), Nesnelerin İnterneti (IoT
 ## 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bernakalkann&show_icons=true&theme=tokyonight" alt="Berna's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernakalkann&layout=compact&theme=tokyonight" alt="Berna's Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=bernakalkann&show_icons=true&theme=tokyonight" alt="Berna's GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bernakalkann&layout=compact&theme=tokyonight" alt="Berna's Top Languages" width="48%" />
 </p>
 
 ---
