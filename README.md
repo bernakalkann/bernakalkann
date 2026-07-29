@@ -1,21 +1,13 @@
-# 👋 Merhaba, ben **Berna Kalkan**
+# 👩‍💻 Berna Kalkan
+
+**Ankara Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.**
+
+Backend geliştirme, web teknolojileri, bulut bilişim ve siber güvenlik alanlarıyla ilgileniyorum. Python (Django) ve Java (Spring Boot) ekosistemlerinde backend ağırlıklı web uygulamaları geliştiriyor; REST API tasarımı, veri tabanı modelleme ve Docker tabanlı uygulama ortamları üzerine çalışıyorum.
 
 <p align="left">
   <a href="https://github.com/bernakalkann">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=F75C7E&width=450&lines=Computer+Engineer;Full-Stack+Web+Developer;Backend+Applications+%26+APIs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=F75C7E&width=550&lines=Computer+Engineering+Student;Backend+Development;Web+Technologies;Cloud+Computing;Cybersecurity" alt="Typing SVG" />
   </a>
-</p>
-
-Python (Django) ve Java (Spring Boot) ekosistemlerinde backend ağırlıklı modern web uygulamaları, ölçeklenebilir REST API'ler, veri tabanı modellemeleri ve containerized (Docker) dağıtım mimarileri geliştiriyorum.
-
-
----
-
-## 📊 GitHub İstatistiklerim
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=bernakalkann&show_icons=true&theme=tokyonight" alt="Berna's GitHub Stats" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bernakalkann&layout=compact&theme=tokyonight" alt="Berna's Top Languages" width="48%" />
 </p>
 
 ---
@@ -23,6 +15,7 @@ Python (Django) ve Java (Spring Boot) ekosistemlerinde backend ağırlıklı mod
 ## 🛠️ Teknolojiler & Araçlar
 
 ### 💻 Geliştirme & Diller
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -32,6 +25,7 @@ Python (Django) ve Java (Spring Boot) ekosistemlerinde backend ağırlıklı mod
 </p>
 
 ### 🌐 Frontend
+
 <p align="left">
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -41,6 +35,7 @@ Python (Django) ve Java (Spring Boot) ekosistemlerinde backend ağırlıklı mod
 </p>
 
 ### ⚙️ DevOps & Bulut Teknolojileri
+
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -50,20 +45,52 @@ Python (Django) ve Java (Spring Boot) ekosistemlerinde backend ağırlıklı mod
 
 ## 📌 Öne Çıkan Projelerim
 
-- 📋 **[task-project](https://github.com/bernakalkann/task-project)** — Django REST Framework (Python), Vue 3 (Vuetify) ve PostgreSQL kullanılarak geliştirilmiş, rol tabanlı yetkilendirme ve Jira/Scrum tarzı Kanban görev panosu barındıran modern bir görev yönetim ve işbirliği uygulaması.
-- 🎵 **[spotify-taste-analyzer](https://github.com/bernakalkann/spotify-taste-analyzer)** — Spotify çalma listelerindeki şarkıları analiz edip Gemini AI kullanarak müzikal aura tespiti yapan ve akıllı şarkı önerileri sunan modern bir Python CLI uygulaması.
-- ☁️ **[cloud-journal](https://github.com/bernakalkann/cloud-journal)** — Bulut tabanlı, kullanıcıların günlüklerini güvenli bir şekilde şifreleyerek saklamasını ve farklı cihazlar arasında senkronize etmesini sağlayan modern bir günlük ve not alma uygulaması.
-- 📡 **[iot-streaming-project](https://github.com/bernakalkann/iot-streaming-project)** — Nesnelerin İnterneti (IoT) cihazlarından gelen büyük veri akışlarını (telemetri verileri) anlık olarak işleyen ve analiz eden gerçek zamanlı veri akış mimarisi.
+### 📋 [Task Project](https://github.com/bernakalkann/task-project)
+
+**Barikat Siber Güvenlik Staj Projesi**
+
+Django REST Framework, Vue 3 (Vuetify) ve PostgreSQL kullanılarak geliştirilmiş görev yönetimi ve ekip işbirliği uygulaması. Rol tabanlı yetkilendirme, görev atama ve Jira/Scrum tarzı Kanban görev panosu gibi özellikler içermektedir.
+
+`Python` `Django REST Framework` `Vue 3` `Vuetify` `PostgreSQL`
 
 ---
 
-## ✍️ Son Blog Yazılarım (Medium)
+### 🛍️ [Charme](https://github.com/bernakalkann/charme)
 
-- 📝 **[DTO Deseni: Veri Aktarım Nesnesi Yazılımda Ne İşe Yarar ve Neden Kullanılır?](https://medium.com/@bernakalkann/dto-deseni-veri-aktar%C4%B1m-nesnesi-yaz%C4%B1l%C4%B1mda-ne-i%CC%87%C5%9Fe-yarar-ve-neden-kullan%C4%B1l%C4%B1r-bd951562bacb)**  
-  Veri aktarım nesnelerinin yazılım mimarisindeki rolü ve kullanım avantajları üzerine bir yazım.
-  
-- 📝 **[HashMap'ın Anatomisi: Temelden Gelişmiş Konseptlere](https://medium.com/@bernakalkann/hashmapin-anatomisi-temelden-geli%C5%9Fmi%C5%9F-konseptlere-fc73570d0119)**  
-  Java'da HashMap veri yapısının iç işleyişi ve gelişmiş kullanım senaryoları hakkında bir yazım.
+**TOKİ Bilgi Teknolojileri Staj Projesi**
+
+Spring Boot tabanlı backend mimarisi ve React frontend kullanılarak geliştirilen kozmetik odaklı bir e-ticaret uygulaması. REST API'ler, ilişkisel veri tabanı modellemesi ve modern web geliştirme yaklaşımları kullanılarak geliştirilmiştir.
+
+`Java` `Spring Boot` `React` `PostgreSQL` `REST API`
+
+---
+
+### ☁️ [SecureShop-Cloud](https://github.com/bernakalkann/SecureShop-Cloud)
+
+Bulut bilişim ve güvenli yazılım geliştirme yaklaşımlarına odaklanan bir e-ticaret projesi. Uygulama; güvenlik, backend mimarisi, containerization ve bulut ortamında uygulama geliştirme konularında pratik yapmak amacıyla geliştirilmiştir.
+
+`Cloud Computing` `Docker` `Backend` `Security`
+
+---
+
+## ✍️ Medium Yazılarım
+
+### 📝 [DTO Deseni: Veri Aktarım Nesnesi Yazılımda Ne İşe Yarar ve Neden Kullanılır?](https://medium.com/@bernakalkann/dto-deseni-veri-aktar%C4%B1m-nesnesi-yaz%C4%B1l%C4%B1mda-ne-i%CC%87%C5%9Fe-yarar-ve-neden-kullan%C4%B1l%C4%B1r-bd951562bacb)
+
+Veri aktarım nesnelerinin (DTO) yazılım mimarisindeki rolü, kullanım amaçları ve sağladığı avantajlar üzerine bir yazı.
+
+### 📝 [HashMap'ın Anatomisi: Temelden Gelişmiş Konseptlere](https://medium.com/@bernakalkann/hashmapin-anatomisi-temelden-geli%C5%9Fmi%C5%9F-konseptlere-fc73570d0119)
+
+Java'da HashMap veri yapısının çalışma mantığı, iç yapısı ve gelişmiş kullanım senaryoları üzerine bir yazı.
+
+---
+
+## 📊 GitHub İstatistiklerim
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=bernakalkann&show_icons=true&theme=tokyonight" alt="Berna's GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bernakalkann&layout=compact&theme=tokyonight" alt="Berna's Top Languages" width="48%" />
+</p>
 
 ---
 
