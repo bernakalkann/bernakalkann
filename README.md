@@ -75,6 +75,10 @@ Bulut bilişim ve güvenli yazılım geliştirme yaklaşımlarına odaklanan bir
 
 ## ✍️ Medium Yazılarım
 
+### 🤖 [Yapay Zekayla İlgilenen Birisi Nereden Başlamalı?](https://medium.com/@bernakalkann/yapay-zekayla-i%CC%87lgilenen-birisi-nereden-ba%C5%9Flamal%C4%B1-96064c9aa694)
+
+Bir bilgisayar mühendisliği öğrencisinin gözünden; Generative AI, LLM, token, embedding, RAG, fine-tuning ve prompt engineering gibi temel kavramlar üzerinden yapay zekâ öğrenme sürecimi ve izlediğim yol haritasını anlattığım yazı.
+
 ### 📝 [DTO Deseni: Veri Aktarım Nesnesi Yazılımda Ne İşe Yarar ve Neden Kullanılır?](https://medium.com/@bernakalkann/dto-deseni-veri-aktar%C4%B1m-nesnesi-yaz%C4%B1l%C4%B1mda-ne-i%CC%87%C5%9Fe-yarar-ve-neden-kullan%C4%B1l%C4%B1r-bd951562bacb)
 
 Veri aktarım nesnelerinin (DTO) yazılım mimarisindeki rolü, kullanım amaçları ve sağladığı avantajlar üzerine bir yazı.
@@ -82,7 +86,6 @@ Veri aktarım nesnelerinin (DTO) yazılım mimarisindeki rolü, kullanım amaçl
 ### 📝 [HashMap'ın Anatomisi: Temelden Gelişmiş Konseptlere](https://medium.com/@bernakalkann/hashmapin-anatomisi-temelden-geli%C5%9Fmi%C5%9F-konseptlere-fc73570d0119)
 
 Java'da HashMap veri yapısının çalışma mantığı, iç yapısı ve gelişmiş kullanım senaryoları üzerine bir yazı.
-
 ---
 
 ## 📊 GitHub İstatistiklerim
