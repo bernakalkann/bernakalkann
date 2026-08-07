@@ -1,71 +1,206 @@
-# 👩‍💻 Berna Kalkan
+```md
+<div align="center">
 
-**Ankara Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.**
+# 👋 Hi, I'm Berna Kalkan
 
-Backend geliştirme, web teknolojileri, bulut bilişim ve siber güvenlik alanlarıyla ilgileniyorum. Python (Django) ve Java (Spring Boot) ekosistemlerinde backend ağırlıklı web uygulamaları geliştiriyor; REST API tasarımı, veri tabanı modelleme ve Docker tabanlı uygulama ortamları üzerine çalışıyorum.
+### Computer Engineering Student • Backend Developer • AI & Cybersecurity Enthusiast
 
----
+Building backend applications with **Spring Boot** and **Django**, while exploring **Large Language Models**, **Cloud Computing**, and **Cybersecurity**.
 
-## 🛠️ Teknolojiler & Araçlar
+<p>
+  <a href="https://github.com/bernakalkann">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/bernakalkann">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@bernakalkann">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/bernakalkann">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
-### 💻 Geliştirme & Diller
-
-### 🌐 Frontend
-
-### ⚙️ DevOps & Bulut Teknolojileri
-
----
-
-## 📌 Öne Çıkan Projelerim
-
-### 📋 [Task Project](https://github.com/bernakalkann/task-project)
-
-**Barikat Siber Güvenlik Staj Projesi**
-
-Django REST Framework, Vue 3 (Vuetify) ve PostgreSQL kullanılarak geliştirilmiş görev yönetimi ve ekip işbirliği uygulaması. Rol tabanlı yetkilendirme, görev atama ve Jira/Scrum tarzı Kanban görev panosu gibi özellikler içermektedir.
-
-`Python` `Django REST Framework` `Vue 3` `Vuetify` `PostgreSQL`
+</div>
 
 ---
 
-### 🛍️ [Charme](https://github.com/bernakalkann/charme)
+## 🚀 About Me
 
-**TOKİ Bilgi Teknolojileri Staj Projesi**
+🎓 4th-year Computer Engineering student at **Ankara University**
 
-Spring Boot tabanlı backend mimarisi ve React frontend kullanılarak geliştirilen kozmetik odaklı bir e-ticaret uygulaması. REST API'ler, ilişkisel veri tabanı modellemesi ve modern web geliştirme yaklaşımları kullanılarak geliştirilmiştir.
+💻 Backend-focused developer passionate about building scalable web applications.
 
-`Java` `Spring Boot` `React` `PostgreSQL` `REST API`
+🧠 Interested in **Artificial Intelligence**, **Cybersecurity**, **Cloud Computing** and **Software Architecture**.
 
----
-
-### ☁️ [SecureShop-Cloud](https://github.com/bernakalkann/SecureShop-Cloud)
-
-Bulut bilişim ve güvenli yazılım geliştirme yaklaşımlarına odaklanan bir e-ticaret projesi. Uygulama; güvenlik, backend mimarisi, containerization ve bulut ortamında uygulama geliştirme konularında pratik yapmak amacıyla geliştirilmiştir.
-
-`Cloud Computing` `Docker` `Backend` `Security`
+☕ I enjoy turning ideas into real projects and learning by building.
 
 ---
 
-## ✍️ Medium Yazılarım
+## 🛠️ Tech Stack
 
-### 🤖 [İlk Büyük AI Projem: MITRE RAG](https://medium.com/@bernakalkann/i̇lk-büyük-ai-projem-mitre-rag-e1a36c1463a5)
+<div align="center">
 
-MITRE ATT&CK tabanlı geliştirdiğim RAG projesinin ortaya çıkış hikâyesini, geliştirme sürecini ve bu süreçte öğrendiklerimi anlattığım yazı.
+<img src="https://skillicons.dev/icons?i=java,spring,python,django,react,vue,postgres,mysql,docker,git,linux,idea,vscode,postman,maven&perline=8"/>
 
-### 🤖 [Yapay Zekayla İlgilenen Birisi Nereden Başlamalı?](https://medium.com/@bernakalkann/yapay-zekayla-i%CC%87lgilenen-birisi-nereden-ba%C5%9Flamal%C4%B1-96064c9aa694)
-
-Bir bilgisayar mühendisliği öğrencisinin gözünden; Generative AI, LLM, token, embedding, RAG, fine-tuning ve prompt engineering gibi temel kavramlar üzerinden yapay zekâ öğrenme sürecimi ve izlediğim yol haritasını anlattığım yazı.
-
-### 📝 [DTO Deseni: Veri Aktarım Nesnesi Yazılımda Ne İşe Yarar ve Neden Kullanılır?](https://medium.com/@bernakalkann/dto-deseni-veri-aktar%C4%B1m-nesnesi-yaz%C4%B1l%C4%B1mda-ne-i%CC%87%C5%9Fe-yarar-ve-neden-kullan%C4%B1l%C4%B1r-bd951562bacb)
-
-Veri aktarım nesnelerinin (DTO) yazılım mimarisindeki rolü, kullanım amaçları ve sağladığı avantajlar üzerine bir yazı.
-
-### 📝 [HashMap'ın Anatomisi: Temelden Gelişmiş Konseptlere](https://medium.com/@bernakalkann/hashmapin-anatomisi-temelden-geli%C5%9Fmi%C5%9F-konseptlere-fc73570d0119)
-
-## Java'da HashMap veri yapısının çalışma mantığı, iç yapısı ve gelişmiş kullanım senaryoları üzerine bir yazı.
-
-## 📊 GitHub İstatistiklerim
+</div>
 
 ---
 
-## 📫 İletişim olmadı DÜZLET
+# ⭐ Featured Projects
+
+## 🤖 MITRE RAG
+
+AI-powered MITRE ATT&CK assistant built with Retrieval-Augmented Generation (RAG).
+
+**Highlights**
+
+- Natural Language Query
+- Raw Log Analysis
+- Detection Rule Analysis
+- Automatic Input Detection
+- MITRE ATT&CK Technique Mapping
+
+**Tech**
+
+`Python`
+`LLM`
+`RAG`
+`Vector Database`
+`FastAPI`
+
+🔗 https://github.com/bernakalkann/mitre-rag
+
+---
+
+## 📋 Task Project
+
+**Barikat Siber Güvenlik Internship Project**
+
+Task management and collaboration platform built with Django REST Framework, Vue 3 and PostgreSQL.
+
+`Python`
+`Django`
+`Vue`
+`PostgreSQL`
+
+🔗 https://github.com/bernakalkann/task-project
+
+---
+
+## 🛍️ Charme
+
+**TOKİ Information Technologies Internship Project**
+
+Cosmetics e-commerce platform developed using Spring Boot and React.
+
+`Java`
+`Spring Boot`
+`React`
+`PostgreSQL`
+
+🔗 https://github.com/bernakalkann/charme
+
+---
+
+## ☁️ SecureShop Cloud
+
+Cloud-native e-commerce project focused on backend architecture, containerization and secure software development.
+
+`Docker`
+`Cloud`
+`Backend`
+`Security`
+
+🔗 https://github.com/bernakalkann/SecureShop-Cloud
+
+---
+
+# ✍️ Medium Articles
+
+### 🤖 First AI Project: MITRE RAG
+
+The story behind my MITRE ATT&CK based Retrieval-Augmented Generation project, how it works and what I learned during development.
+
+🔗 https://medium.com/@bernakalkann/i̇lk-büyük-ai-projem-mitre-rag-e1a36c1463a5
+
+---
+
+### 🤖 Where Should You Start Learning AI?
+
+A beginner-friendly roadmap covering LLMs, RAG, embeddings, prompt engineering and my own learning experience.
+
+🔗 https://medium.com/@bernakalkann/yapay-zekayla-i%CC%87lgilenen-birisi-nereden-ba%C5%9Flamal%C4%B1-96064c9aa694
+
+---
+
+### 📝 DTO Pattern Explained
+
+Why DTOs exist, where they should be used and the advantages they provide in software architecture.
+
+🔗 https://medium.com/@bernakalkann/dto-deseni-veri-aktar%C4%B1m-nesnesi-yaz%C4%B1l%C4%B1mda-ne-i%CC%87%C5%9Fe-yarar-ve-neden-kullan%C4%B1l%C4%B1r-bd951562bacb
+
+---
+
+### ☕ HashMap Deep Dive
+
+Understanding how Java's HashMap works internally from the basics to advanced concepts.
+
+🔗 https://medium.com/@bernakalkann/hashmapin-anatomisi-temelden-geli%C5%9Fmi%C5%9F-konseptlere-fc73570d0119
+
+---
+
+## 📚 Currently Learning
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Spring Security
+- Cloud Computing
+- Cybersecurity
+- Secure Software Development
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bernakalkann&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernakalkann&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=bernakalkann&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/bernakalkann">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@bernakalkann">
+<img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/bernakalkann">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+</div>
+```
