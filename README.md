@@ -75,6 +75,10 @@ Bulut bilişim ve güvenli yazılım geliştirme yaklaşımlarına odaklanan bir
 
 ## ✍️ Medium Yazılarım
 
+İlk büyük AI projem olan **MITRE RAG**'in geliştirme sürecini, nasıl ortaya çıktığını ve neler öğrendiğimi bu yazıda anlattım.
+
+👉 [İlk Büyük AI Projem: MITRE RAG](https://medium.com/@bernakalkann/i̇lk-büyük-ai-projem-mitre-rag-e1a36c1463a5)
+
 ### 🤖 [Yapay Zekayla İlgilenen Birisi Nereden Başlamalı?](https://medium.com/@bernakalkann/yapay-zekayla-i%CC%87lgilenen-birisi-nereden-ba%C5%9Flamal%C4%B1-96064c9aa694)
 
 Bir bilgisayar mühendisliği öğrencisinin gözünden; Generative AI, LLM, token, embedding, RAG, fine-tuning ve prompt engineering gibi temel kavramlar üzerinden yapay zekâ öğrenme sürecimi ve izlediğim yol haritasını anlattığım yazı.
