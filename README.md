@@ -7,7 +7,7 @@ Backend Developer • Computer Engineering Student • AI & Cybersecurity
 Building software with **Spring Boot**, **Django**, **LLMs** and **Cloud Technologies**.
 
 <p>
-<a href="https://linkedin.com/in/bernakalkann"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="https://linkedin.com/in/bernakalkan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
 <a href="https://medium.com/@bernakalkann"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white"></a>
 <a href="https://instagram.com/bernakalkann"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
 </p>
@@ -150,6 +150,6 @@ Understanding the internal implementation of Java's HashMap.
 
 ## Contact
 
-- LinkedIn → https://linkedin.com/in/bernakalkann
+- LinkedIn → https://linkedin.com/in/bernakalkan
 - Medium → https://medium.com/@bernakalkann
 - Instagram → https://instagram.com/bernakalkann
